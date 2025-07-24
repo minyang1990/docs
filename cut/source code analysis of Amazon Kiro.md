@@ -283,7 +283,6 @@ ${otherData.prefix}[BLANK]${otherData.codeToEdit}${otherData.suffix}
 
 Above is the file of code that the user is currently editing in. Their cursor is located at the "[BLANK]". They have requested that you fill in the "[BLANK]" with code that satisfies the following request:
 
-"${otherData.userInput}"
 
 Please generate this code. Your output will be only the code that should replace the "[BLANK]", without repeating any of the prefix or suffix, without any natural language explanation, and without messing up indentation. Here is the code that will replace the "[BLANK]":
 
